@@ -21,4 +21,6 @@ roslaunch explore_lite explore.launch
 ```
 now you can see the robot is running and mapping
 
-## 
+## About some details
+
+1.the GFE exploration 
