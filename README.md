@@ -20,3 +20,5 @@ in a new terminal, run
 roslaunch explore_lite explore.launch
 ```
 now you can see the robot is running and mapping
+
+## 
